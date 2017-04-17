@@ -4,3 +4,5 @@
   Anyway, this tutorial is going so far so good.
   
   https://guides.github.com/activities/hello-world/
+  
+  In case you are curious, the assignment went well and everything is great. Thanks for opening this repo.
